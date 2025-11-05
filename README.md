@@ -1,4 +1,4 @@
-##🌍 S&P 500 Real-Time Data Pipeline
+## 🌍 S&P 500 Real-Time Data Pipeline
 An automated ETL pipeline designed to pull, process, and store real-time intraday data for the S&P 500 index. This pipeline leverages Apache Airflow running in Docker to fetch 1-minute interval stock data from Yahoo Finance, processes it for analysis, and stores it in Amazon S3 and Snowflake for further visualization and exploration. 📊❄️
 
 📖 Table of Contents
